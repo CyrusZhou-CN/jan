@@ -1,6 +1,6 @@
 import React, { useCallback } from 'react'
 
-import { SettingComponentProps } from '@janhq/core/.'
+import { SettingComponentProps } from '@janhq/core'
 
 import { useAtomValue } from 'jotai'
 
